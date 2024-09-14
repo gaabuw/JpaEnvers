@@ -1,4 +1,3 @@
-Comenzamos a estudiar JPA y la implementación con Hibernate. (Proyecto de base )
-1- Descargar el proyecto
-2- Abrir en Intelligent Idea Community
-3 - Este Proyecto utiliza gradle y la base de dato H2 en memoria para simplificar
+# Proyecto de Auditoría con Envers
+
+Este proyecto muestra cómo implementar auditoría en aplicaciones Java usando Hibernate Envers. Envers permite el versionado y auditoría de entidades JPA, facilitando el seguimiento de cambios en los datos a lo largo del tiempo.
